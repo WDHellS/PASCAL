@@ -6,7 +6,7 @@ Copyright (c) Eternity. All Rights Reserved.
 <strong>INTELLECTUAL PROPERTY & OWNERSHIP</strong></br>
 This project, including all underlying logic, architecture, and source</br>
 code, is the exclusive intellectual property of the intellect which idealized it.</br>
-No ownership, right to distribute, or permission to modify is granted to external</br>
+No ownership, or permission to modify is granted to external</br>
 entities. If the software brings utility or satisfaction to the end user, that is</br>
 well and good; however, the project remains solely tethered to the creating intellect.</br></br>
 
