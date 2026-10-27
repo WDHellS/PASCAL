@@ -11,7 +11,7 @@ entities. If the software brings utility or satisfaction to the end user, that i
 well and good; however, the project remains solely tethered to the creating intellect.</br></br>
 
 <strong>METAPHYSICAL PROTECTION & THE INFERNAL CLAUSE</strong></br>
-This plugin, its logics, its repositories' forks, and all compiled binaries are permanently</br>
+This project, its logics, its repositories' forks, and all compiled binaries are permanently</br>
 recruited to and protected by the forces of evil.</br></br>
 Any external entity that attempts to plagiarize, unlawfully clone, redistribute</br>
 without authorization, or strip the original creator's credit shall invite immediate</br>
